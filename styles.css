@@ -1,7 +1,4 @@
-#content
-{
-  background-color:green;
-}
+
 body {
     background-color: lightblue;
   }
@@ -14,7 +11,7 @@ body {
     font-size: 18px;
   }
   
-  button {
+  #content button {
     background-color: #FFCC00;
     color: white;
     padding: 10px 20px;
